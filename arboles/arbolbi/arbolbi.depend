@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528817699 source:c:\users\winni\documents\winni\2do_semestre\programacion\arboles\arbolbi\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
